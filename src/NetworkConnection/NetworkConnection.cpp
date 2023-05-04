@@ -2,7 +2,7 @@
 #include "NetworkConnection.h"
 
 
-const char SeriesDevice[] = "199700125CM1901";
+const char SeriesDevice[] = Serial_Number_Device;
 
 
 const char RouteTriggerEventDoorFirebase[]= "/eventTriggerDoorFirebase";
